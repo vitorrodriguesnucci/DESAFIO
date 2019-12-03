@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\trabalho2bMary\ex03\bin\Debug\netcoreapp2.1\ex03.deps.json
+C:\Users\User\source\repos\trabalho2bMary\ex03\bin\Debug\netcoreapp2.1\ex03.runtimeconfig.json
+C:\Users\User\source\repos\trabalho2bMary\ex03\bin\Debug\netcoreapp2.1\ex03.runtimeconfig.dev.json
+C:\Users\User\source\repos\trabalho2bMary\ex03\bin\Debug\netcoreapp2.1\ex03.dll
+C:\Users\User\source\repos\trabalho2bMary\ex03\bin\Debug\netcoreapp2.1\ex03.pdb
+C:\Users\User\source\repos\trabalho2bMary\ex03\obj\Debug\netcoreapp2.1\ex03.csprojAssemblyReference.cache
+C:\Users\User\source\repos\trabalho2bMary\ex03\obj\Debug\netcoreapp2.1\ex03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\trabalho2bMary\ex03\obj\Debug\netcoreapp2.1\ex03.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\trabalho2bMary\ex03\obj\Debug\netcoreapp2.1\ex03.AssemblyInfo.cs
+C:\Users\User\source\repos\trabalho2bMary\ex03\obj\Debug\netcoreapp2.1\ex03.dll
+C:\Users\User\source\repos\trabalho2bMary\ex03\obj\Debug\netcoreapp2.1\ex03.pdb

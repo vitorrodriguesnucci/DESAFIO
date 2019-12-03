@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\trabalho2bMary\ex01\bin\Debug\netcoreapp2.1\ex01.deps.json
+C:\Users\User\source\repos\trabalho2bMary\ex01\bin\Debug\netcoreapp2.1\ex01.runtimeconfig.json
+C:\Users\User\source\repos\trabalho2bMary\ex01\bin\Debug\netcoreapp2.1\ex01.runtimeconfig.dev.json
+C:\Users\User\source\repos\trabalho2bMary\ex01\bin\Debug\netcoreapp2.1\ex01.dll
+C:\Users\User\source\repos\trabalho2bMary\ex01\bin\Debug\netcoreapp2.1\ex01.pdb
+C:\Users\User\source\repos\trabalho2bMary\ex01\obj\Debug\netcoreapp2.1\ex01.csprojAssemblyReference.cache
+C:\Users\User\source\repos\trabalho2bMary\ex01\obj\Debug\netcoreapp2.1\ex01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\trabalho2bMary\ex01\obj\Debug\netcoreapp2.1\ex01.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\trabalho2bMary\ex01\obj\Debug\netcoreapp2.1\ex01.AssemblyInfo.cs
+C:\Users\User\source\repos\trabalho2bMary\ex01\obj\Debug\netcoreapp2.1\ex01.dll
+C:\Users\User\source\repos\trabalho2bMary\ex01\obj\Debug\netcoreapp2.1\ex01.pdb
